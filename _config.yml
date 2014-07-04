@@ -4,6 +4,7 @@ email: your-email@domain.com
 description: ""
 baseurl: ""
 url: "http://yourdomain.com"
+safe: true
 
 # Build settings
 markdown: kramdown
